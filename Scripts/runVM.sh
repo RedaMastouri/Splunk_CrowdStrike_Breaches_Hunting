@@ -1,0 +1,1 @@
+ssh -i splunk_key.pem rmastour@104.45.140.27
